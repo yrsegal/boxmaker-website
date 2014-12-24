@@ -3,6 +3,8 @@ BoxMaker Web App
 
 A simple web front-end to the BoxMaker command line tool for making designs you can laser-cut.
 
+Forked by NuVu, to make it more efficient in its exports and add various other features.
+
 Dependencies
 ------------
 
